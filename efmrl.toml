@@ -1,0 +1,5 @@
+base_host = "efmrl.samf.workers.dev"
+
+[site]
+  site_id = "606e9da7-6ae4-4a78-a5d5-a60da70ef7ac"
+  dir = "public"
